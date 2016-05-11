@@ -1,0 +1,13 @@
+## Maven
+dependency-reduced-pom.xml
+target/
+
+## IDEA
+.idea/
+*.iml
+
+## VIM
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+tags
+*~
